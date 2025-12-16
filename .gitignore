@@ -2,12 +2,5 @@
 venv/
 .env/
 
-# Кэш Python
-__pycache__/
-*.pyc
-
 # Настройки IDE (VS Code)
 .vscode/
-
-# Временные файлы
-*.log
